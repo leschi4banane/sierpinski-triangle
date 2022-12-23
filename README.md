@@ -10,4 +10,4 @@ This programme uses python and some of its libraries. It uses "pygame" to create
 To use this programme, just open the python file in the repository. It will create a window. You can then click anywhere on the windows to create your 4 starting points. After a few seconds, it will then show you the sierpinski triangle you just created.
 
 ## Examples
-<img src="https://github.com/leschi4banane/sierpinski-triangle/blob/main/example%20picture/screenshot.png?raw=true" style="height: 500px; width:500px;"/>
+<img src="https://raw.githubusercontent.com/leschi4banane/sierpinski-triangle/main/screenshot.png" style="height: 500px; width:500px;"/>
